@@ -19,7 +19,7 @@
 
 2. Now **clone** the forked repo in your pc. For this first copy the url of your forked repo (use terminal or git bash):
 
-   	`git clone https://github.com/[username]/PrivacyShield.git`
+   	git clone https://github.com/[username]/PrivacyShield.git`
 
    	[username] is replaced by your github username
 
