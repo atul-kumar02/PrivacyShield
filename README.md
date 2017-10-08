@@ -43,7 +43,7 @@
 
 - View the issues put up in the repo and try to fix them.
 
- **IMPORTANT** :- Before sending a **Pull Request** make sure that your forked repository is in sync with the base repository
+ **IMPORTANT** :- Before sending a **Pull Request** make sure that your forked repository is in sync with the base repository.
  
 ### License :-
 This project is currently licensed under the GNU General Public License v3.  
