@@ -10,7 +10,9 @@
   - Images
   - Videos
   - Documents
-  
+ 
+ 
+ 
 ## How to setup this project in Android Studio :-
 
 1. Firstly, **fork** this repo from **CSEC-NITH/PrivacyShield** by clicking on fork button
